@@ -1,5 +1,5 @@
 # Automatic-Melody-Generator
-##Using different genres of music...hear the music of your choice
+### *Using different genres of music...hear the music of your choice
 
 ## What are the Constituent Elements of Music?
 
